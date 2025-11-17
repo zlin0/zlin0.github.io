@@ -1,0 +1,17 @@
+{% if site.visitor_map.enabled %}
+{% assign provider = site.visitor_map.provider | default: "revolvermaps" %}
+<section class="visitor-map">
+  <h2 class="visitor-map__title">{{ site.visitor_map.title | default: "Visitor Map" }}</h2>
+  <div class="visitor-map__embed">
+    {% if provider == "mapmyvisitors" and site.visitor_map.script_url %}
+      <script type="text/javascript" id="mapmyvisitors" src="{{ site.visitor_map.script_url }}"></script>
+    {% elsif site.visitor_map.map_id %}
+    <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=bjjjf3hgZe8e0q3ujsELWTZqzk3zByoivMCTvklZLjs&cl=ffffff&w=a"></script>
+    {% else %}
+      <p class="visitor-map__placeholder">Configure `visitor_map` in `_config.yml` to show the visitor map.</p>
+    {% endif %}
+  </div>
+  <p class="visitor-map__caption">This live globe shows recent visitor locations. Create your own map ID at revolvermaps.com for accurate tracking.</p>
+</section>
+{% endif %}
+
