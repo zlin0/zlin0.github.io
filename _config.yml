@@ -31,12 +31,12 @@ visitor_map:
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Lin"
+  name             : "Lin Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Postdoc@JHU | speech security and privacy"
   location         : "Baltimore, MD 21218, USA"
   employer         : "Johns Hopkins University"
-  uri              : https://www.clsp.jhu.edu/
+  # uri              : https://www.clsp.jhu.edu/
   email            : "zlin[at]ieee[dot]org" 
 
   # Academic websites
@@ -235,9 +235,9 @@ collections:
   # portfolio:
   #   output: true
   #   permalink: /:collection/:path/
-  # talks:
-  #   output: true
-  #   permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site

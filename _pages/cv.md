@@ -14,8 +14,9 @@ Education
 * Ph.D in SOKENDAI/NII, Tokyo, Japan. Oct. 2020 -- Mar. 2024
   - Thesis: ``Whether, When, What'': Detection, Localization, and Diarization of Partially Spoofed Audio
 * M.S. in Tianjin University Sep. 2017 –- Jan. 2020 
-  - Thesis:  Study on Static Individual Characteristics for Speaker Recognition
+  - Thesis: Study on Static Individual Characteristics for Speaker Recognition
 * B.S. in North China University of Water Resources and Electric Power, Sep. 2013 -- Jul. 2017
+  - Thesis: Research on Automatic Speech Recognition Based on Deep Learning
 
 Work experience
 ======
