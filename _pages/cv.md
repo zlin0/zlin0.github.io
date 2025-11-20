@@ -12,29 +12,54 @@ redirect_from:
 Education
 ======
 * Ph.D in SOKENDAI/NII, Tokyo, Japan. Oct. 2020 -- Mar. 2024
+  - Supervisor: Prof. Junichi Yamagishi; Mentor: Dr. Xin Wang, Dr. Erica Cooper
+  - Focus: Anti-spoofing (Partial Spoof), Speaker Recognition
   - Thesis: ``Whether, When, What'': Detection, Localization, and Diarization of Partially Spoofed Audio
-* M.S. in Tianjin University Sep. 2017 –- Jan. 2020 
+* M.S. in Tianjin University, Tianjin, China. Sep. 2017 –- Jan. 2020 
+  - Supervisor: Prof. Kiyoshi Honda and Prof. Jianguo Wei
+  - Focus: Speaker Recognition, Speech Production, Speech Recognition
   - Thesis: Study on Static Individual Characteristics for Speaker Recognition
-* B.S. in North China University of Water Resources and Electric Power, Sep. 2013 -- Jul. 2017
+* B.S. in North China University of Water Resources and Electric Power, Henan, China. Sep. 2013 -- Jul. 2017
   - Thesis: Research on Automatic Speech Recognition Based on Deep Learning
 
 Work experience
 ======
-* Spring 2024: Postdoctoral Fellow
+<!-- * Spring 2024: Postdoctoral Fellow
   * Johns Hopkins University
   * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Supervisor: The Users -->
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Postdoctoral Fellow
+  - April 2025 -- present  
+  - Johns Hopkins University (Dr. Nicholas Andrews, Dr. Matthew Wiesner, Dr. Leibny Paola Garcia, Prof. Sanjeev Khudanpur) — Baltimore, United States  
+  - Focus: Speech Security and Privacy
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* Research Worker
+  - July 2024 -- March 2025  
+  - Brno University of Technology (Prof. Lukáš Burget) — Brno, Czech Republic  
+  - Focus: Anti-spoofing, Speaker Verification, Speaker Diarization
+
+* Research Assistant
+  - Oct. 2020 -- Mar. 2024  
+  - National Institute of Informatics (Prof. Junichi Yamagishi) — Tokyo, Japan  
+  - Highlights:
+    - Defined a new spoofing scenario — **Partial Spoof**
+    - Built the PartialSpoof database (more than 5k+ downloads)
+    - Defined tasks and measurements for Partial Spoof
+    - Proposed several benchmark countermeasures
+
+* Visitor
+  - May 2023 -- Oct. 2023  
+  - Brno University of Technology (Prof. Lukáš Burget, Dr. Mireia Diez) — Brno, Czech Republic  
+  - Highlights:
+    - [Best Paper (Odyssey 2024)](https://www.odyssey2024.org/outputs)
+    - Applied the variational information bottleneck to investigate the essential information required for EEND-EDA
+
+* Research Assistant
+  - Feb. 2020 -- Aug. 2020  
+  - Duke Kunshan University (Prof. Ming Li) — Jiangsu, China  
+  - Tasks:
+    - Data selection, knowledge-based feature extraction, and model design for an autism project
 
 Publications
 ======
@@ -56,4 +81,4 @@ Teaching
 
 Service and leadership
 ======
-* 
+

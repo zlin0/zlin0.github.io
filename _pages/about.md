@@ -11,14 +11,16 @@ Dr. Lin Zhang currently is a postdoctoral research fellow at the [Center for Lan
 Her research interests include **speech security and privacy**.
  <!-- She has been collaborated with researchers from around the world and published more than 30 papers in top-tier speech-related conferences and journals, including INTERSPEECH, ICASSP, TASLP, and TIFS. -->
 
+<!-- I am on academic job market for a tenure-track position. Please feel free to reach out if you know any opportunities. If you are also on job market, I'd love to connect! -->
 
 News
 ======
 - **[2025-12]**: Our special session [Frontiers in Deepfake Voice Detection and Beyond](https://sites.google.com/view/deepfake-voice) will be held at ASRU'25!
-- **[2025-12]**: Lin will travel to Honolulu for ASA and ASRU.
-- **[2025-11]**: Lin will give a talk at the IEEE SPS Webinar.
-- **[2025-11]**: Lin launched her homepage.
-- **[2025-11]**: Lin received AWM Travel Grants.
+- **[2025-12]**: I will be attending ASA/ASJ and ASRU (12.2-12.11) at Honolulu, HI.
+- **[2025-11]**: I will give a talk at the [IEEE SPS Webinar](https://signalprocessingsociety.org/events/sps-webinar-minor-manipulations-major-threat-overview-partially-fake-speech) on 11.20 (9:30am ET).
+- **[2025-11]**: I launched this homepage.
+- **[2025-11]**: I received AWM Travel Grants.
+
 
 Contact
 ======
