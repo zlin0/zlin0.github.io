@@ -1,0 +1,28 @@
+{% if site.flag_counter.enabled %}
+<section class="flag-counter">
+  <h2 class="flag-counter__title">{{ site.flag_counter.title | default: "Visitor Counter" }}</h2>
+  <div class="flag-counter__embed">
+    {% if site.flag_counter.provider == "flagcounter" %}
+      {% assign flag_site_id = site.flag_counter.site_id | default: 'Re7o' %}
+      {% if site.flag_counter.image_url and site.flag_counter.image_url != "" %}
+        <a href="https://info.flagcounter.com/{{ flag_site_id }}">
+          <img src="{{ site.flag_counter.image_url }}" alt="Flag Counter" border="0">
+        </a>
+      {% elsif flag_site_id %}
+        <a href="https://info.flagcounter.com/{{ flag_site_id }}">
+          <img src="https://s01.flagcounter.com/count2/{{ flag_site_id }}/bg_FFFFFF/txt_000000/border_CCCCCC/columns_7/maxflags_21/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0">
+        </a>
+      {% else %}
+        <p class="flag-counter__placeholder">Configure `flag_counter.image_url` or `flag_counter.site_id` in `_config.yml` to show the flag counter.</p>
+      {% endif %}
+    {% elsif site.flag_counter.provider == "clustrmaps" and site.flag_counter.site_id %}
+      <a href="https://clustrmaps.com/site/{{ site.flag_counter.site_id }}" title="Visit tracker">
+        <img src="//www.clustrmaps.com/map_v2.png?d={{ site.flag_counter.site_id }}&cl=ffffff" />
+      </a>
+    {% else %}
+      <p class="flag-counter__placeholder">Configure `flag_counter` in `_config.yml` to show the flag counter. Visit <a href="https://flagcounter.com/" target="_blank">flagcounter.com</a> to get your free counter code.</p>
+    {% endif %}
+  </div>
+</section>
+{% endif %}
+

@@ -25,6 +25,13 @@ visitor_map:
   script_url            : "https://mapmyvisitors.com/map.js?d=bjjjf3hgZe8e0q3ujsELWTZqzk3zByoivMCTvklZLjs&cl=ffffff&w=a" # replace with your own embed link
   map_id                : "5h1w4wd47h3" # legacy support for revolvermaps
 
+flag_counter:
+  enabled               : true
+  provider              : "flagcounter" # options: flagcounter, clustrmaps
+  title                 : "Visitor Counter"
+  site_id               : "Re7o" # Your site ID from flagcounter.com
+  image_url             : "https://s01.flagcounter.com/count2/Re7o/bg_FFFFFF/txt_000000/border_CCCCCC/columns_7/maxflags_21/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" # Full image URL from flagcounter.com
+
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
