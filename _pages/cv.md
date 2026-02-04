@@ -12,11 +12,11 @@ redirect_from:
 Education
 ======
 * Ph.D in SOKENDAI/NII, Tokyo, Japan. Oct. 2020 -- Mar. 2024
-  - Supervisor: Prof. Junichi Yamagishi; Mentor: Dr. Xin Wang, Dr. Erica Cooper
+  - Supervisor: [Prof. Junichi Yamagishi](https://yamagishilab.jp/); Mentor: [Dr. Xin Wang](https://tonywangx.github.io/), [Dr. Erica Cooper](https://researchmap.jp/ecooper?lang=en)
   - Focus: Anti-spoofing (Partial Spoof), Speaker Recognition
   - Thesis: ``Whether, When, What'': Detection, Localization, and Diarization of Partially Spoofed Audio
 * M.S. in Tianjin University, Tianjin, China. Sep. 2017 –- Jan. 2020 
-  - Supervisor: Prof. Kiyoshi Honda and Prof. Jianguo Wei
+  - Supervisor: [Prof. Kiyoshi Honda](http://112.27.229.103:8387/static/Honda_website_updated_2022/index.html) and Prof. Jianguo Wei
   - Focus: Speaker Recognition, Speech Production, Speech Recognition
   - Thesis: Study on Static Individual Characteristics for Speaker Recognition
 * B.S. in North China University of Water Resources and Electric Power, Henan, China. Sep. 2013 -- Jul. 2017
@@ -60,6 +60,14 @@ Work experience
   - Duke Kunshan University (Prof. Ming Li) — Jiangsu, China  
   - Tasks:
     - Data selection, knowledge-based feature extraction, and model design for an autism project
+
+<!-- Honors and Awards
+======
+  - 2025, AWM Travel Grants, Association for Women in Mathematics
+  - 2024, Best Paper Award, Odyssey
+  - 2021 - 2024, Special Researcher Scholarship, SOKENDAI
+  - 2017, Superior Graduate of Henan Province, The Education Department of Henan Province
+  - 2014&2016, National Scholarship, Chinese Ministry of Education -->
 
 <!-- Publications
 ======
