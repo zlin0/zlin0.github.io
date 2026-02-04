@@ -16,6 +16,7 @@ I am currently on the job market for tenure-track academic positions and am also
 
 News
 ======
+- **[2026-01]**: We invite you to participate in the [ESDD2: Environment-Aware Speech and Sound Deepfake Detection Challenge](https://sites.google.com/view/esdd-challenge/esdd-challenges/esdd-2/description) (submission deadline: April 25, 2026), held in conjunction with IEEE ICME 2026.
 - **[2025-12]**: Our special session [Frontiers in Deepfake Voice Detection and Beyond](https://sites.google.com/view/deepfake-voice) will be held at ASRU'25!
 - **[2025-12]**: I will be attending ASA/ASJ and ASRU (12.2-12.11) at Honolulu, HI.
 - **[2025-11]**: I will give a talk at the [IEEE SPS Webinar](https://signalprocessingsociety.org/events/sps-webinar-minor-manipulations-major-threat-overview-partially-fake-speech) on 11.20 (9:30am ET).
