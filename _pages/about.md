@@ -11,7 +11,7 @@ I am currently is a postdoctoral research fellow at the [Center for Language and
 My recent research interests include **speech security and privacy**.
  <!-- She has been collaborated with researchers from around the world and published more than 30 papers in top-tier speech-related conferences and journals, including INTERSPEECH, ICASSP, TASLP, and TIFS. -->
 
-I am currently on the job market for tenure-track academic positions and am also open to industry research roles. Please feel free to reach out if you know any opportunities. If you are also on job market, I’d be glad to connect!
+**I am currently on the job market for tenure-track academic positions or industry research scientist roles.** Please feel free to reach out if you know any opportunities. If you are also on job market, I’d be glad to connect!
 
 
 News

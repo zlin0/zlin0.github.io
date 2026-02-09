@@ -87,8 +87,16 @@ Work experience
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
 
-<!-- Service
-====== 
-xxx
--->
+Service
+======
+- **Organizer**:
+  - IEEE ICME 2026 [Environment-Aware Speech and Sound Deepfake Detection Challenge](https://sites.google.com/view/esdd-challenge/esdd-challenges/esdd-2/description)
+  - IEEE ASRU 2025 special session about [Frontiers in Deepfake Voice Detection and Beyond](https://2025.ieeeasru.org/program/special-sessions)
+  - Joint Workshop of VoicePersonae and ASVspoof 2023
+- **Community**: 
+  - Appointed Team of [ISCA SPSC-SIG](https://www.spsc-sig.org/about) 2025 – Present
+  - Board member of [ISCA-PECRAC](https://isca-speech.org/PostDoc-and-Early-Career-Researchers) 2026 – Present
+- **Area Chair**: INTERSPEECH 2026
+- **Volunteer**: INTERSPEECH 2023–2024, HHME 2018, ZHENG-KAI International Marathon 2015
+
 
