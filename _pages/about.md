@@ -11,11 +11,13 @@ I am currently is a postdoctoral research fellow at the [Center for Language and
 My recent research interests include **speech security and privacy**.
  <!-- She has been collaborated with researchers from around the world and published more than 30 papers in top-tier speech-related conferences and journals, including INTERSPEECH, ICASSP, TASLP, and TIFS. -->
 
-**I am currently on the job market for tenure-track academic positions or industry research scientist roles.** Please feel free to reach out if you know any opportunities. If you are also on job market, I’d be glad to connect!
+**I am currently on the job market for tenure-track academic positions and industry research scientist roles.** Please feel free to reach out if you know of any opportunities. If you’re also on the job market, I’d be glad to connect!
+
 
 
 News
 ======
+- **[2026-03]**: Our special session [Partially Edited Audio: Perspectives from Synthesis and Defense](https://sites.google.com/view/partially-edited-audio) was accepted to IEEE SLT 2026 (submission deadline: June 17).
 - **[2026-01]**: We invite you to participate in the [ESDD2: Environment-Aware Speech and Sound Deepfake Detection Challenge](https://sites.google.com/view/esdd-challenge/esdd-challenges/esdd-2/description) (submission deadline: April 25, 2026), held in conjunction with IEEE ICME 2026.
 - **[2025-12]**: Our special session [Frontiers in Deepfake Voice Detection and Beyond](https://sites.google.com/view/deepfake-voice) will be held at ASRU'25!
 - **[2025-12]**: I will be attending ASA/ASJ and ASRU (12.2-12.11) at Honolulu, HI.
