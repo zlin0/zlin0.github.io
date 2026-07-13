@@ -17,6 +17,8 @@ My recent research interests include **speech security and privacy**.
 
 News
 ======
+- **[2026-07]**: I will give a talk at DKU on July 14 and at ICSPCC (http://www.icspcc.org/) on July 18.
+Talk title: Minor Manipulations, Major Threat: An Overview of Partially Fake Audio and Its Evolution in the LLM Era.
 - **[2026-03]**: Our special session [Partially Edited Audio: Perspectives from Synthesis and Defense](https://sites.google.com/view/partially-edited-audio) was accepted to IEEE SLT 2026 (submission deadline: June 17).
 - **[2026-01]**: We invite you to participate in the [ESDD2: Environment-Aware Speech and Sound Deepfake Detection Challenge](https://sites.google.com/view/esdd-challenge/esdd-challenges/esdd-2/description) (submission deadline: April 25, 2026), held in conjunction with IEEE ICME 2026.
 - **[2025-12]**: Our special session [Frontiers in Deepfake Voice Detection and Beyond](https://sites.google.com/view/deepfake-voice) will be held at ASRU'25!
